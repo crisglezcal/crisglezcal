@@ -11,17 +11,7 @@
 
 <br>
 
-<img 
-  src="https://readme-typing-svg.demolab.com
-  ?font=Fira+Code
-  &pause=3000
-  &color=2ECC71
-  &width=1000
-  &lines=Desarrolladora+Web+Full+Stack%2C+construyo+aplicaciones+web+completas+aplicando+buenas+pr%C3%A1cticas+y+metodolog%C3%ADas+%C3%A1giles.;
-  Tecnolog%C3%ADa+con+prop%C3%B3sito%2C+personas+en+el+centro%2C+soluciones+digitales+inclusivas+y+con+impacto+social.;
-  Pensamiento+cr%C3%ADtico%2C+empat%C3%ADa+y+trabajo+en+equipo.;
-  Resiliencia%2C+proactividad%2C+aprendizaje+continuo+y+adaptabilidad."
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=2ECC71&width=1000&lines=Desarrolladora+Web+Full+Stack%2C+construyo+aplicaciones+web+completas+aplicando+buenas+pr%C3%A1cticas+y+metodolog%C3%ADas+%C3%A1giles.;Tecnolog%C3%ADa+con+prop%C3%B3sito%2C+personas+en+el+centro%2C+soluciones+digitales+inclusivas+y+con+impacto+social.;Pensamiento+cr%C3%ADtico%2C+empat%C3%ADa+y+trabajo+en+equipo.;Resiliencia%2C+proactividad%2C+aprendizaje+continuo+y+adaptabilidad." />
 
 ---
 
@@ -78,9 +68,9 @@ Mi objetivo es una primera oportunidad como **desarrolladora junior**. Actualmen
   <summary><strong>🌱 Aprendizaje continuo</strong></summary>
   <br />
   <em>Tecnologías en las que tengo interés en aprender y en seguir construyendo mis bases de desarrolladora:</em>
-  - TypeScript
-  - Python
-  - Angular
+  - 🟦 TypeScript  
+  - 🐍 Python  
+  - 🅰️ Angular  
 </details>
 
 ---
@@ -107,9 +97,9 @@ Mi objetivo es una primera oportunidad como **desarrolladora junior**. Actualmen
 
 ## 🚀 Qué estoy buscando
 
-> 💼 **Junior Full Stack Developer**
-> 📒 Prácticas remuneradas en las que seguir asentando aprendizajes y experiencia
-> 🌍 Trabajo remoto o híbrido en la CAM
+💼 **Junior Full Stack Developer**  
+📒 Prácticas remuneradas en las que seguir asentando aprendizajes y experiencia  
+🌍 Trabajo remoto o híbrido en la CAM
 
 ---
 
