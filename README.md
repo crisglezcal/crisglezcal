@@ -107,9 +107,9 @@ Mi objetivo es una primera oportunidad como **desarrolladora junior**. Actualmen
 
 ## 🚀 Qué estoy buscando
 
-💼 **Junior Full Stack Developer**
-📒 Prácticas remuneradas en las que seguir asentando aprendizajes y experiencia
-🌍 Trabajo remoto o híbrido en la CAM
+> 💼 **Junior Full Stack Developer**
+> 📒 Prácticas remuneradas en las que seguir asentando aprendizajes y experiencia
+> 🌍 Trabajo remoto o híbrido en la CAM
 
 ---
 
