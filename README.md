@@ -12,9 +12,8 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&width=1000&lines=Desarrolladora+Web+Fullstack+en+continuo+aprendizaje;Aplicaciones+web+completas+responsive+e+intuitivas;Buenas+pr%C3%A1cticas+y+metodolog%C3%ADas+%C3%A1giles;Tecnolog%C3%ADa+con+prop%C3%B3sito+y+con+las+personas+en+el+centro;Soluciones+digitales+inclusivas+y+con+impacto+social;Pensamiento+cr%C3%ADtico%2C+empat%C3%ADa+y+trabajo+en+equipo;Resiliencia%2C+proactividad+y+adaptabilidad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&color=2ECC71&width=700&lines=Desarrolladora+Web+Fullstack+en+continuo+aprendizaje;Aplicaciones+web+completas+responsive+e+intuitivas;Buenas+pr%C3%A1cticas+y+metodolog%C3%ADas+%C3%A1giles;Tecnolog%C3%ADa+con+prop%C3%B3sito+y+con+las+personas+en+el+centro;Soluciones+digitales+inclusivas+y+con+impacto+social;Pensamiento+cr%C3%ADtico%2C+empat%C3%ADa+y+trabajo+en+equipo;Resiliencia%2C+proactividad+y+adaptabilidad&center=true&multiline=false" />
 </p>
-
 
 ---
 
