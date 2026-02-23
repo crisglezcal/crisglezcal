@@ -31,7 +31,7 @@ Tengo amplia experiencia en el ámbito socioeducativo y de la intervención soci
 
 Creo en el **aprendizaje constante y la adaptabilidad**. Mi formación socioeducativa me permite aportar una **mirada humana y diferente al ámbito tecnológico**, donde quiero crecer profesionalmente y seguir sumando desde un **enfoque comprometido, resolutivo y colaborativo**.
 
-Mi objetivo es una primera oportunidad como **desarrolladora junior**. Actualmente estoy buscando oportunidades para seguir aprendiendo y aportar en proyectos con propósito.
+Actualmente trabajo como **desarrolladora cloud** y continúo especializándome en **arquitectura y automatización en entornos Cloud** (Google Cloud, AWS y Azure), **DevOps** y **desarrollo con Python y Angular**.
 
 ---
 
@@ -42,10 +42,12 @@ Mi objetivo es una primera oportunidad como **desarrolladora junior**. Actualmen
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 </details>
 
@@ -61,14 +63,14 @@ Mi objetivo es una primera oportunidad como **desarrolladora junior**. Actualmen
 </details>
 
 <details>
-<summary><b>🛠️ DevOps y Tools</b></summary>
+<summary><b>☁️ Cloud y DevOps</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 </details>
 
@@ -91,14 +93,6 @@ Mi objetivo es una primera oportunidad como **desarrolladora junior**. Actualmen
 - Escucha activa
 - Pensamiento crítico
 - Resolución de problemas
-
----
-
-## 🚀 Qué estoy buscando
-
-💼 **Junior Full Stack Developer**  
-📒 Prácticas remuneradas en las que seguir asentando aprendizajes y experiencia  
-🌍 Trabajo remoto o híbrido en la CAM
 
 ---
 
